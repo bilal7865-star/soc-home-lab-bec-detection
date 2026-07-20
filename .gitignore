@@ -1,0 +1,28 @@
+# Logs
+*.log
+mail.log
+*.log.*
+
+# Mail directories
+maildir/
+Maildir/
+*.eml
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Docker (if you use it later)
+docker-compose.override.yml
+
+# Splunk local data (optional)
+splunk/var/
+
+# Large files
+*.png
+*.jpg
+*.jpeg
+!screenshots/*.png
+!screenshots/*.jpg
