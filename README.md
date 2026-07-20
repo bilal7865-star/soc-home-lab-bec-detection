@@ -1,6 +1,5 @@
 # SOC Home Lab - BEC Detection Pipeline 
 
-![BEC Detection Pipeline](https://github.com/bilal7865-star/SOC-Home-Lab-BEC-Detection-Pipeline/blob/main/Screenshots/bec-detection-pipeline.png)
 
 **A production-grade simulation of Business Email Compromise (BEC) attack detection using a single Kali Linux host.**
 
@@ -19,11 +18,11 @@ As part of my **SOC Analyst Home Lab Journey**, I built a realistic detection pi
 - Develop high-fidelity detection rules using SPL
 - Create professional documentation and architecture diagram
 
----
+---<img width="1408" height="768" alt="Gemini_Generated_Image_txfd4atxfd4atxfd" src="https://github.com/user-attachments/assets/949404d0-020e-4bb6-bcd7-0365d0b3d361" />
+
 
 ## Lab Architecture
 
-![Architecture Diagram](https://github.com/bilal7865-star/SOC-Home-Lab-BEC-Detection-Pipeline/blob/main/screenshots/bec-detection-pipeline.png)
 
 **Components:**
 - **Attack Layer**: Kali Linux + Swaks (Spoofed Email Simulation)
